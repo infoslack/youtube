@@ -1,0 +1,6 @@
+- De: Nome da Empresa 
+- Para: Cliente
+- Assunto: Lembrete de compra
+- Intenção: Lembrar ao cliente sobre sua compra atrasada
+- Objeto: Descrever as mercadorias não compradas
+- Tom: Amigável e esclarecedor

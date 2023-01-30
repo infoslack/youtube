@@ -1,0 +1,18 @@
+DE – Solicitante
+PARA – Estabelecimento de Saúde
+ASSUNTO – Solicitação de informações sobre Instalações
+INTENÇÃO – Obter mais informações sobre o serviço
+OBJETIVO – Compreender melhor os procedimentos e instalações oferecidos
+TOM – Amigável e Profissional
+PEDIDO – Solicitar documentação e diretrizes sobre instalações de saúde
+
+EMAIL:
+
+Olá, 
+
+Eu, ($Nome do Solicitante$), sou uma solicitante que está interessada em obter mais informações sobre as instalações oferecidas por ($Nome do Estabelecimento de Saúde$). Para compreender melhor os procedimentos e instalações oferecidos, eu gostaria de solicitar documentação e diretrizes sobre o serviço que o estabelecimento de saúde oferece.
+
+Agradeço pela sua a atenção e colaboração.
+
+Atenciosamente,
+$Nome do Solicitante$

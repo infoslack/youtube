@@ -1,0 +1,19 @@
+DE: 
+PARA: 
+ASSUNTO: Informações sobre eventos esportivos
+INTENÇÃO: Ter informações sobre eventos esportivos
+OBJETIVO: Reunir informações sobre eventos esportivos
+TOM: Solicitação amigável e gentil
+
+EMAIL:
+
+Olá,
+
+Eu gostaria de obter informações sobre eventos esportivos que acontecem na sua região. Estou interessado em me manter informado sobre as últimas notícias e eventos regionais relacionados ao esporte, especialmente na área em que você está envolvido.
+
+Gostaria muito de receber sua ajuda. Seria muito útil se você pudesse compartilhar informações úteis sobre os eventos esportivos que acontecem na sua área.
+
+Agradeço sinceramente pela sua ajuda.
+
+Atenciosamente,
+[Seu nome]

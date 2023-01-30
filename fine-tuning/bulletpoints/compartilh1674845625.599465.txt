@@ -1,0 +1,8 @@
+- DE: Nome do remetente
+ - PARA: Endereço de email do destinatário
+ - ASSUNTO: Aproveite as Promoções!
+ - INTRODUÇÃO: Saiba como aproveitar as promoções
+ - TEMPO: Descubra e aproveite agora mesmo
+ - INTENÇÃO: Oportunidade de desfrutar os melhores preços
+ - CONTEÚDO: Artigos sobre as promoções e todos os detalhes disso
+ - DESFECHO: Aproveite os descontos enquanto durarem

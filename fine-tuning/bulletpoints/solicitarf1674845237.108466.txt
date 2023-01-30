@@ -1,0 +1,7 @@
+- De: `Nome do remetente`
+- Para: `Nome do destinatário`
+- Assunto: `Feedback do Projeto`
+- Intenção: `Solicitar avaliação do Projeto` 
+- Objetivo: `Aperfeiçoamento do Projeto` 
+- Tom: `Solicitação de cooperação` 
+- Prazo: `Data limite para o envio de feedback`

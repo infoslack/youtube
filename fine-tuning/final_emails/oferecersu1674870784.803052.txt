@@ -1,0 +1,25 @@
+DE: Gerente de suporte técnico 
+PARA: Clientes 
+ASSUNTO: Oferta de suporte técnico 
+INTENÇÃO: Oferecer uma lista com os nossos serviços de suporte técnico
+OBJETIVO: Promover uma experiência mais eficaz e positiva aos nossos clientes 
+TOM: Simpático e Cooperativo
+
+EMAIL:
+
+Olá [Nome do Cliente],
+
+Como você sabe, aqui no [Nome da Companhia] queremos oferecer uma experiência mais eficaz e positiva para todos os nossos clientes. Por essa razão, estamos felizes em compartilhar com você nossos serviços de suporte técnico. A seguir encontrará a lista de serviços que oferecemos:
+
+1. Suporte remoto: nosso time de especialistas tecnológicos está disponível 24 horas por dia, 7 dias por semana, para ajudar a resolve qualquer problema em seus sistemas ou dispositivos.
+
+2. Suporte técnico geral: estamos sempre disponíveis para fornecer dicas úteis, instruções e orientação sobre soluções e recursos tecnológicos.
+
+3. Serviços de consultoria: nossos especialistas estão disponíveis para ajudá-lo a adotar novos sistemas tecnológicos e fornecer dicas preciosas para melhorar o desempenho de sua empresa.
+
+Nosso serviço de suporte é profissional, confiável e o melhor de tudo, de custo acessível. Por favor, não hesite em contactar-nos se precisar de ajuda. Estamos aqui para ajudá-lo!
+
+Obrigado pela sua atenção.
+
+Atenciosamente,
+[Nome do Gerente de Suporte Técnico]

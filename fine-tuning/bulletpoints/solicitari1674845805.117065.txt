@@ -1,0 +1,6 @@
+- De:  aluno(a)
+- Para: administração da universidade
+- Assunto: Solicitação de informações sobre alojamento estudantil
+- Intenção: obter informações sobre preços, disponibilidade de vagas, centros de estudo e outras informações que possam ajudar na decisão
+- Objetivo: descobrir as melhores opções de alojamento para estudantes
+- Tom: formal, porém amigável

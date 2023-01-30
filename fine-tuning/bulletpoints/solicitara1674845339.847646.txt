@@ -1,0 +1,7 @@
+1. DE: Nome do solicitante
+2. PARA: Nome do destinatário 
+3. ASSUNTO: Solicitação de ajuda com problemas técnicos
+4. INTENÇÃO: Pedido de ajuda para solucionar problemas técnicos
+5. OBJETIVO: A resolução dos problemas técnicos
+6. TOM: Educado e comprometido
+7. DETALHES ADICIONAIS: Identificação dos problemas técnicos específicos

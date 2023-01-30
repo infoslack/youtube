@@ -1,0 +1,23 @@
+- ASSUNTO: Solicitação de Feedback de Cliente 
+- DE: Nome da Empresa 
+- PARA: Clientes 
+- INTENÇÃO: Compartilhar o que os clientes pensam sobre nossos serviços, produtos e experiência geral 
+- OBJETIVO: Obter feedback para melhorar e cumprir as necessidades dos nossos clientes 
+- TOM: Respeitoso e gratificante
+
+EMAIL:
+
+Assunto: Solicitamos o feedback de nossos clientes
+
+Prezado(a) Cliente, 
+
+Nome da empresa se orgulha muito em lhe oferecer o nosso serviço, produtos e experiência. Por isso, queremos saber o que você pensa sobre elas!
+
+Avaliar os nossos serviços, produtos e experiência geral dura apenas alguns minutos, e estamos interessados em compartilhar suas opiniões. Queremos saber como você se sentiu, contar com suas sugestões para melhorar ainda mais, e garantir que estamos atendendo e cumprindo as suas necessidades.
+
+Esperamos que se sinta gratificado por participar desta avaliação. Por isso, por favor, compartilhe conosco seu feedback de forma sincera. Todas as avaliações serão tratadas com confidencialidade e profundo respeito.
+
+Muito obrigad@ pelo seu tempo.
+
+Atenciosamente,
+Nome da empresa

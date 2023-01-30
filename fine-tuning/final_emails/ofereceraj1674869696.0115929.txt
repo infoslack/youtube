@@ -1,0 +1,21 @@
+- Para: Pessoa solicitante da ajuda
+- De: Pessoa oferecendo ajuda
+- Assunto: Oferecendo ajuda para conclusão de tarefas
+- Intenções: Ajudar com algumas tarefas com o objetivo de facilitar a conclusão de forma mais rápida
+- Objetivos: Discutir quais tarefas são necessárias e como ou quais métodos podem ser usados para ajudar
+- Tom: Solícito, prestativo e agradável
+
+EMAIL:
+
+Caro/a [Pessoa solicitante da ajuda], 
+
+Recentemente notei que você está tendo dificuldades para concluir certas tarefas e gostaria de oferecer minha ajuda. 
+
+Envio este email pois quero ajudar de qualquer forma, compartilhando meus conhecimentos ou ideias que possam ajudar no processo. 
+
+Por favor, responda a este email para que possamos discutir sobre quais tarefas precisam de ajuda, e quais técnicas ou métodos poderíamos utilizar para acelerar o processo. 
+
+Espero dar a você toda a ajuda que eu puder para que você colha frutos satisfatórios de seu trabalho.
+
+Atenciosamente, 
+[Pessoa oferecendo ajuda]

@@ -1,0 +1,6 @@
+- Para: Destinatários do email
+  - Assunto: Agendamento de reuniões
+  - Intenção: Solicitar um agendamento de reuniões
+  - Objetivo: Estabelecer compromissos para discutir e acordar assuntos pertinentes
+  - Tom: Profissional e cordial
+  - Detalhes: Duração da reunião, data, local, participantes, questões a serem discutidas/acordadas

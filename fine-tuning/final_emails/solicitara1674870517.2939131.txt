@@ -1,0 +1,19 @@
+- DE: Solicitante 
+- PARA: Supervisor financeiro
+- ASSUNTO: Solicitação de aprovação para pagamentos
+- INTENÇÕES: Solicitar aprovação de pagamentos
+- OBJETIVOS: Facilitar o processamento de pagamentos 
+- TOM: Profissional, formal e respeitoso
+
+EMAIL:
+
+Assunto: Solicitação de aprovação de pagamentos
+
+Prezado(a) Supervisor financeiro,
+
+Gostaria de solicitar a sua aprovação para alguns pagamentos para facilitar o nosso processamento financeiro. Estou à disposição para fornecer maiores informações caso necessário.
+
+Agradecendo antecipadamente pela sua atenção e colaboração. 
+
+Atenciosamente,
+[Solicitante]

@@ -1,0 +1,24 @@
+-DE: Remetente 
+-PARA: Destinatários 
+-ASSUNTO: Convite para Evento Promocional 
+-Conteúdo: Descrição detalhada do evento durante o qual os convidados poderão aproveitar vantagens diversas
+-Intenção: Convidar destinatários para o evento 
+-Objetivo: Encorajar destinatários a participarem do evento 
+-Tom: Amigável e atrativo
+
+EMAIL:
+
+Prezados Destinatários, 
+
+Estamos muito felizes em poder convidá-los para o nosso evento promocional. É uma oportunidade única para experimentar várias vantagens enquanto desfruta ótimas comodidades. 
+
+Através deste evento, vocês terão a chance de obter ofertas exclusivas, chances únicas de conhecer pessoas interessantes e desfrutar de grandes momentos. 
+
+Esperamos que possam aproveitar esta grande ocasião para adquirir no conhecimento, divertir-se e aproveitar os benefícios que estão à sua disposição.
+
+Qualquer duvida ou necessidade de informações adicionais não hesite em contactar-nos. 
+
+Esperamos sinceramente que possam usufruir deste evento com enorme satisfação.
+
+Atentamente,
+[Remetente]

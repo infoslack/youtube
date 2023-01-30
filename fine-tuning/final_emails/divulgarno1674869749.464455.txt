@@ -1,0 +1,34 @@
+1. De: Endereço de e-mail do remetente
+2. Para: Endereço de e-mail dos destinatários 
+3. Assunto: Apresentando os Novos Produtos ou Serviços 
+4. Intenção: Convidar o destinatário a conhecer os novos produtos ou serviços 
+5. Objetivo: Promover os novos produtos ou serviços
+6. Tom: Casual mas profissional 
+7. Conteúdo: Uma breve descrição da qualidade, benefícios e custo-benefício dos novos produtos ou serviços
+
+EMAIL:
+
+De: (Endereço de e-mail do remetente)
+
+Para: (Endereço de e-mail dos destinatários)
+
+Assunto: Apresentando os Novos Produtos ou Serviços 
+
+Caro destinatário,
+
+Estamos empolgados em anunciar os nossos novos produtos ou serviços. Estes recursos revolucionários podem ajudar a melhorar o desempenho e o sucesso de sua empresa em todos os departamentos da organização.
+
+Nosso objetivo é levar a você produtos de alta qualidade e ao mesmo tempo acessíveis. Oferecemos orientação por nossos profissionais altamente qualificados para ajudar a administrar seus sistemas eficazmente.
+
+Benefícios importantes que nossa solução oferece incluem: 
+- Uma melhoria de qualidade no serviço ao cliente. 
+- Um aumento na eficiência operacional. 
+- Um aumento no crescimento da empresa.
+
+Gostaríamos que você conhecesse estes novos produtos ou serviços. Por favor, entre em contato conosco para que possamos acertar uma reunião conveniente.
+
+Agradecemos seu tempo e estamos ansiosos para continuar trabalhando com você.
+
+Atenciosamente,
+
+(Remetente)

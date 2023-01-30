@@ -1,0 +1,26 @@
+DE: Representante da empresa
+
+PARA: Cliente
+
+ASSUNTO: Descontos especiais para você
+
+INTENÇÕES: Oferecer descontos especiais para os clientes da marca
+
+OBJETIVOS: Promover lealdade de marca e encorajar a fidelização do cliente
+
+CONTEÚDO: Uma descrição dos ofertas especiais disponíveis
+
+TOM: Acolhedor e convidativo
+
+EMAIL:
+
+Caro(a) [Cliente],
+
+Esperamos encontrá-lo(a) bem! Acreditamos que oferecer descontos especiais é uma ótima forma de incentivar a lealdade da marca e a fidelização dos nossos clientes.
+
+Por isso, estamos muito felizes de oferecer ofertas especiais para você! Estamos oferecendo descontos especiais, descontos exclusivos para membros, recompensas, ofertas de fidelidade e cupons.
+
+Aproveite as nossas ofertas para ainda mais economias! É uma ótima oportunidade para garantir preços mais baixos e economizar ainda mais. Se tiver dúvidas, não hesite em entrar em contato conosco.
+
+Obrigado,
+[Nome da Empresa]

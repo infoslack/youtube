@@ -1,0 +1,11 @@
+DE: Nome da empresa 
+
+PARA: Funcionários de alto escalão 
+
+ASSUNTO: Atrasos no cumprimento de projetos 
+
+INTENÇÃO: Notificar sobre os atrasos nos projetos 
+
+OBJETIVOS: Explicar as causas dos atrasos, propor soluções e estimular a ação 
+
+TOM: Profissional, mas compreensivo

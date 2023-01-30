@@ -1,0 +1,6 @@
+DE: Notícias de Família
+PARA: Família e Amigos
+ASSUNTO: Compartilhamento de Notícias Sobre Familiares
+INTENÇÃO: Compartilhar as últimas notícias sobre a nossa família
+OBJETIVO: Manter todos atualizados sobre as notícias da nossa família
+TOM: Acolhedor, aberto e receptivo ao compartilhamento

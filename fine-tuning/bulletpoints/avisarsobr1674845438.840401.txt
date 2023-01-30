@@ -1,0 +1,6 @@
+- DE: Equipe da loja virtual / Responsáveis pelo site
+- PARA: Clientes
+- ASSUNTO: Alerta sobre mudanças no site ou na loja virtual
+- INTENÇÕES: Informar sobre as modificações, detalhando como elas afetarão os clientes
+- OBJETIVO: Explicar as alterações para ajudar os clientes a encontrarem os produtos desejados e garantir uma experiência positiva na loja virtual
+- TOM: Apresentar a mudança de forma clara e objetiva, destacando as vantagens da nova loja virtual para os clientes.

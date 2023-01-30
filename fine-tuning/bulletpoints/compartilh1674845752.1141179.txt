@@ -1,0 +1,17 @@
+DE:
+Remetente
+
+PARA:
+Destinatário
+
+ASSUNTO:
+Compartilhando Artigos sobre Finanças e Investimentos
+
+INTENÇÃO:
+Apresentar informações e ideias práticas sobre finanças e investimentos
+
+OBJETIVO:
+Ampliar o conhecimento sobre finanças e investimentos
+
+TOM:
+Informacional e educacional

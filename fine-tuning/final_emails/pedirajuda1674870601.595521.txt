@@ -1,0 +1,19 @@
+DE: Nome do Remetente
+PARA: Nome do Destinatário
+ASSUNTO: Pedido de Ajuda para Organizar um Evento Familiar
+INTENÇÕES: Explicar a situação e solicitar ajuda na organização do evento
+OBJETIVO: Garantir o sucesso do evento por meio de equipe de trabalho
+TOM: Amigável e comprometido.
+
+EMAIL:
+
+Caro (Nome do Destinatário), 
+
+Estou escrevendo para pedir sua ajuda com dicas preciosas para a organização de um evento familiar. Estamos começando uma nova tradição na família e queremos começar com o pé direito, garantindo o sucesso da iniciativa. 
+
+Todos nós temos diferentes habilidades e conhecimentos que podem ajudar. Seria de grande valia se você compartilhasse suas ideias e experiências para garantir que tudo sairá conforme o planejado.
+
+Agradecemos antecipadamente pela colaboração e ficaríamos muito felizes em contar com sua ajuda. Por favor, nos informe se conseguirá ou não disponibilizar algum tempo para nos ajudar a organizar o evento.
+
+Atenciosamente, 
+(Nome do Remetente)

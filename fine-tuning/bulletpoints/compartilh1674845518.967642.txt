@@ -1,0 +1,6 @@
+DE: 
+PARA: 
+ASSUNTO: Compartilhamento de recibos de pagamento
+INTENÇÃO: Solicitar que os destinatários compartilhem seus recibos de pagamento
+OBJETIVO: Obter uma visão geral dos padrões de despesas dos destinatários
+TOM: Profissional e respeitoso

@@ -1,0 +1,6 @@
+1. De: Seu nome
+2. Para: Responsável pela Biblioteca
+3. Assunto: Solicitando informações sobre a Biblioteca 
+4. Intenção: Obter informações sobre os serviços oferecidos, horário de funcionamento, facilidades de acesso e assim por diante.
+5. Objetivo: Ter todas as informações necessárias para utilizar a Biblioteca.
+6. Tom: Cortês, Profissional.

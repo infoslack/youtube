@@ -1,0 +1,6 @@
+DE: Nome do remetente 
+PARA: Nome do destinatário 
+ASSUNTO: Compartilhamento de Documentos Importantes 
+INTENÇÃO: Oferecer documentos importantes relacionados a um projeto 
+OBJETIVO: Obter acesso a informações específicas para utilização posterior 
+TOM: Profissional, colaborativo e comprometido

@@ -1,0 +1,25 @@
+• Assunto: Aviso de Alteração de Preços 
+• Para: Clientes
+• De: Empresa X
+• Intenção: Avisar sobre alteração de preços dos produtos da empresa
+• Objetivo: Apresentar os novos preços
+• Tom: Profissional e Informativo
+
+EMAIL:
+
+Assunto: Aviso de Alteração de Preços - Empresa X
+
+Prezado(a) Cliente,
+
+A Empresa X tem o prazer de anunciar uma alteração de preços em nossa linha de produtos.
+
+Após uma análise da dinâmica de custos e demanda de mercado, estamos implementando novos preços, a partir do dia 23 de maio.
+
+O objetivo desta mudança é manter a qualidade que nos destaca e melhorar ainda mais a experiência do nosso públicos consumidor.
+
+Por favor, consulte os preços dos produtos em nosso website ou em nossa loja física.
+
+A Empresa X agradece a sua compreensão e espera contar com a sua presença novamente.
+
+Atenciosamente,
+Empresa X

@@ -1,0 +1,7 @@
+DE: Remetente
+PARA: Destinatário
+ASSUNTO: Pedido de Ajuda para Completar uma Tarefa
+INTENÇÃO: Solicitar Apoio
+OBJETIVO: Terminar a Tarefa com Mais Eficiência
+PORQUE: Explicação da Necessidade de Ajuda
+TOM: Sensibilidade/Comunicação Respeitosa

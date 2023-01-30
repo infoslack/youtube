@@ -1,0 +1,13 @@
+DE: Remetente do convite 
+
+PARA: Destinatário do convite
+
+ASSUNTO: Convite para Reunião Familiar 
+
+OBJETIVO: Reunir os membros da família para uma ocasião especial 
+
+CONTEÚDO: Informações sobre a reunião, datas, local, horários, entre outros 
+
+TOM: Amigável e acolhedor 
+
+INTENÇÃO: Compartilhar informações, celebrar o momento juntos e fortalecer os laços familiares

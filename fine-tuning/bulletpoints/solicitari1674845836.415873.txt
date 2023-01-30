@@ -1,0 +1,6 @@
+- Assunto: Informações sobre eventos acadêmicos
+- De: Seu nome
+- Para: Recepção da Instituição Acadêmica
+- Intenção: Solicitar informações sobre eventos acadêmicos
+- Objeto: Reconhecimento dos eventos acadêmicos e detalhes sobre como participar
+- Tom: Respeitoso e amigável

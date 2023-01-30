@@ -1,0 +1,21 @@
+- De: 
+- Para: 
+- Assunto: Agendamento de reuniões
+- Objetivo: Coordenar um horário para iniciar uma reunião entre os participantes
+- Tom: Solicitação educada de agendamento de reunião
+- Intenção: Garantir a eficácia da reunião estabelecendo um horário que atenda às necessidades de todos os envolvidos
+
+EMAIL:
+
+Assunto: Agendamento de reunião
+
+Prezado(a) [Nome], 
+
+Como discutido recentemente, gostaríamos de marcar uma reunião para iniciar os trabalhos relacionados ao projeto [Nome do Projeto].
+
+Nossa intenção é levar em consideração as necessidades de todos os participantes para garantir a eficácia da reunião. Para isso, gostaríamos de saber quais seriam os horários mais adequados para todos.
+
+Agradecemos a sua colaboração para que possamos coordenar o melhor horário para a reunião.
+
+Com os melhores desejos,
+[Sua assinatura]

@@ -1,0 +1,21 @@
+DE: Remetente 
+PARA: Destinatário 
+ASSUNTO: Lembrete para compra 
+INTENÇÃO: Solicitar o pagamento o mais rápido possível 
+OBJETIVO: Concluir as compras de produtos 
+TOM: Saudavel e cordial
+
+EMAIL:
+
+Assunto: Lembrete de pagamento para suas compras.
+
+Prezado(a) Destinatário,
+
+Estou escrevendo para lhe lembrar do pagamento de suas compras. Esperamos que possa fazê-lo o mais breve possível. Desejamos concluir essas compras para poder saldá-las e é importante que realize o pagamento com rapidez.
+
+Estamos confiantes de que está tudo certo, mas se houver algum motivo para não ter concluído o pagamento, estaremos empenhados em ajudá-lo.
+
+Ficaremos felizes em ouvir qualquer pergunta ou dúvida que possa ter. Contamos com o apoio de sua compreensão.
+
+Atenciosamente,
+Remetente

@@ -1,0 +1,30 @@
+DE: 
+PARA: 
+ASSUNTO: 
+OBJETIVO: 
+RESPOSTAS ESPERADAS:
+INTENÇÕES: 
+TOM: 
+TEMPO PREVISTO: 
+OUTROS ASPECTOS:
+
+EMAIL:
+
+De: nome@email.com 
+Para: nome@email.com 
+Assunto: Solicitação de reunião para discutir oportunidades de negócios 
+
+Caro [Nome],
+
+Minha intenção é solicitar uma reunião na qual poderemos discutir as oportunidades de negócios entre nós, onde eu espero que possamos encontrar soluções viáveis para os problemas existentes. 
+
+Espero que possamos estabelecer relações de negócios baseadas na confiança e reciprocidade. É importante que consideremos todos os fatores antes de finalizar qualquer negociação.
+
+Proponho que estabeleçamos um horário para nos encontrarmos na próxima semana. Com este fim, creio que podemos ter um tempo previsto de cerca de 90 minutos para discutirmos as possibilidades e estratégias para avançarmos na negociação.
+
+Espero ter sua confirmação com antecedência suficiente para que possamos ajustar os detalhes necessários para o nosso encontro. 
+
+Aguardo seu retorno.
+
+Cordialmente,
+[Nome]

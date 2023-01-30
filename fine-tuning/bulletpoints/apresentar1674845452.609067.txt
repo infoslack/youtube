@@ -1,0 +1,6 @@
+DE: Soluções X e Y
+PARA: Clientes cadastrados
+ASSUNTO: Ofertas especiais exclusivas
+INTENÇÃO: Apresentar ofertas exclusivas para seus clientes
+OBJETIVO: Promover destacamentos dos serviços fornecidos por Soluções X e Y
+TOM: Positivo e profissional

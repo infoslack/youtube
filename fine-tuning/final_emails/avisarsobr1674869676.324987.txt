@@ -1,0 +1,22 @@
+DE: Site de conteúdos 
+PARA: Usuários da Plataforma 
+ASSUNTO: Novos conteúdos lançados 
+INTENÇÃO: Compartilhar novidades relacionadas à Plataforma 
+OBJETIVO: Chamar a atenção para novos conteúdos em destaque 
+TOM: Um convite para os usuários descobrirem novas possibilidades de se divertirem
+
+EMAIL:
+
+Prezado Usuário da Plataforma,
+
+Nosso Site de conteúdos está com uma novidade! Lançamos diversos conteúdos inéditos que descobrirão novas possibilidades de se divertirem.
+
+Há conteúdos novos de todos os gostos: desde conteúdos criativos para estimular a imaginação até a novidade mais recente em entretenimento. Estamos mais do que animados para verem o que temos para oferecer!
+
+Passe por aqui e descubra o que temos preparado para você! Esperamos empolgá-lo com novos conteúdos inéditos.
+
+A Partir dessa vez, volte sempre para ver o que temos de novo!
+
+Um abraço,
+
+Equipe do Site de conteúdos

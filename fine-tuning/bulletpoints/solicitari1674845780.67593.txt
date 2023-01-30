@@ -1,0 +1,6 @@
+-DE: Aluno(a) da Faculdade XYZ
+-PARA: Diretoria de Atividades Extracurriculares
+-ASSUNTO: Solicitação de informações sobre Atividades Extracurriculares
+-INTENÇÃO: Obter mais informações sobre o conteúdo e as atividades disseminadas pela Diretoria em questão.
+-OBJETIVO: Permitir maior aproveitamento das atividades no currículo.
+-TOM: Educado e cortês.

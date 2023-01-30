@@ -1,0 +1,6 @@
+DE: Remetente 
+ PARA: Destinatário 
+ ASSUNTO: Compartilhamento de artigos relacionados ao Negócio 
+ OBJETIVO: Estimular o conhecimento sobre temas relacionados ao negócio 
+ TOM: Cordial 
+ INTENÇÃO: Inspirar discussões sobre a atualização dos conceitos

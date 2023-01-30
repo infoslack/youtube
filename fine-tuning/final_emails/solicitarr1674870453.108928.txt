@@ -1,0 +1,19 @@
+DE:  Nome da empresa
+PARA: Clientes que experimentaram o serviço
+ASSUNTO: Solicitando referências de clientes satisfeitos
+INTENÇÃO: Compartilhar o feedback positivo dos clientes com outros clientes em potencial
+OBJETIVO: Promover o melhor serviço possível
+TOM: Obrigado e gratidão aos clientes
+
+EMAIL:
+
+Caros clientes,
+
+Primeiro, queremos dizer o quão agradecidos estamos pelo empenho em adquirir nossos serviços. Estamos muito satisfeitos por ter tido satisfação durante todo o processo.
+
+Agora estamos pedindo para que você piense um pouco de nossa empresa e compartilhe seu feedback positivo sobre o nosso serviço com outros clientes em potencial. Estamos muito comprometidos em fornecer o melhor serviço possível, e seu feedback nos ajudará a melhorar ainda mais.
+
+Agradecemos sinceramente seu tempo, dedicação e valiosas contribuições. Estamos muito agradecidos por você ser um cliente.
+
+Respeitosamente,
+[Nome da empresa]

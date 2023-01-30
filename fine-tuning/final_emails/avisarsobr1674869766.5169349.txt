@@ -1,0 +1,27 @@
+1. De: Nome do Remetente
+2. Para: Destinatário(s)
+3. Assunto: Alteração no Horário do Evento Familiar
+4. Intenção: Comunicar os horários alterados das atividades familiares
+5. Objetivo: Garantir entendimento clareza sobre os novos horários
+6. Tom: Prático e simples
+
+EMAIL:
+
+Assunto: Alteração no Horário do Evento Familiar
+
+Olá [Destinatário(s)],
+
+Espero que este e-mail os encontre bem.
+
+Como vocês sabem, nós estamos planejando um evento familiar e, infelizmente, houve algumas alterações de última hora nos horários.
+
+Agora, as atividades estão programadas para iniciarem às [nova hora] e terminarem às [nova hora].
+
+Certifique-se de que você e seu grupo estejam lá no horário marcado para aproveitar o melhor de todos os eventos.
+
+Por favor, entrem em contato comigo se precisarem de mais informações sobre os horários.
+
+Estou ansioso para vê-los lá!
+
+Atenciosamente,
+[Nome do Remetente]

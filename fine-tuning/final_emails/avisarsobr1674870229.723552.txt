@@ -1,0 +1,25 @@
+-- Assunto: Mudanças de prazos
+-- De: Seu nome
+-- Para: Nome do destinatário
+-- Intenção: Avisar sobre alteração de agenda
+-- Objetivo: Notificar a mudança de planos
+-- Tom: Prevenção e cordialidade
+
+EMAIL:
+
+Assunto: Mudanças de prazos
+
+Prezado(a) [destinatário],
+
+Espero que você esteja bem.
+
+Este email é para notificar a mudança dos nossos planos e avisar que os prazos estão sendo alterados.
+
+Iremos reprogramar a nossa agenda de acordo com os acontecimentos recentes, e gostaria de lembrar que o seu apoio de todas as formas é muito bem-vindo.
+
+Caso você tenha qualquer dúvida a respeito das novas datas, não hesite em contactar-me.
+
+Agradeço antecipadamente a sua compreensão e apoio.
+
+Atenciosamente, 
+[seu nome]

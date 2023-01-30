@@ -1,0 +1,22 @@
+PARA: Centro de Matrículas
+
+DE: Interessado no Processo de Matrícula
+
+ASSUNTO: Pedido de Informações Sobre o Processo de Matrícula
+
+INTENÇÃO: Solicitar Mais Informações
+
+OBJETIVO: Compreender Melhor o Processo de Matrícula
+
+TOM: Cordial e Prudente
+
+EMAIL:
+
+Prezado Centro de Matrículas,
+
+Meu nome é Fulano de Tal e estou interessado no processo de matrícula. Gostaria de mais informações sobre o processo de matrícula, para que eu possa compreender melhor as etapas do processo.
+
+Agradeço desde já a sua atenção.
+
+Atenciosamente,
+Fulano de Tal

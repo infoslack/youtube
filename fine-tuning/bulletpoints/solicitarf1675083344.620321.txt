@@ -1,0 +1,6 @@
+DE: Remetente 
+PARA: Destinatário 
+ASSUNTO: Solicitação de feedback/Avaliação do Projeto 
+INTENÇÃO: Obter uma análise aprofundada do projeto 
+OBJETIVO: Obter uma opinião experiente sobre o projeto 
+TOM: Obrigado(a) pela sua contribuição

@@ -1,0 +1,21 @@
+DE: Nome do Remetente
+PARA: Destinatário(s)
+ASSUNTO: Solicitação de Informações sobre o Programa de Tutoria 
+INTENÇÃO: Obter mais informações sobre o programa de tutoria
+OBJETIVO: Verificar quais as vantagens da tutoria e as condições de participação
+TOM: Condescendente e de demonstração de interesse
+
+EMAIL:
+
+Assunto: Solicitação de informações sobre o Programa de Tutoria
+
+Prezado(a),
+
+Em busca de informações que possam auxiliar meu desenvolvimento profissional e acadêmico, gostaria de obter mais detalhes sobre o programa de tutoria. 
+
+Me informe, por favor, quais as vantagens, benefícios, requisitos e condições de participação dessa modalidade. 
+
+Agradeço antecipadamente.
+
+Atenciosamente,
+(nome do remetente)

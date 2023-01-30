@@ -1,0 +1,6 @@
+- DE: Seu nome e título do e-mail
+- PARA: Destinatário do e-mail
+- ASSUNTO: Solicitação de informações para pesquisas
+- INTENÇÕES: Descrever detalhadamente a finalidade e objetivo da solicitação
+- OBJETIVOS: Obter informações relevantes e oportunas para a pesquisa em questão
+- TOM: Simpático e educado

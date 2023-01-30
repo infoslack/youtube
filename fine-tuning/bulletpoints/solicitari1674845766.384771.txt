@@ -1,0 +1,6 @@
+De:  Nome do Remetente 
+Para: Nome do Destinatário
+Assunto: Solicitação de informações sobre o processo de matrícula 
+Intenção: Obter informações sobre o processo de matrícula 
+Objetivos: Fornecer detalhes sobre o processo de matrícula, incluindo documentos, custos e outras informações relevantes 
+Tom: Amigável, educado e profissional

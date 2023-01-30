@@ -1,0 +1,6 @@
+- De: 
+- Para: 
+- Assunto: Agendamento de reuniões
+- Objetivo: Coordenar um horário para iniciar uma reunião entre os participantes
+- Tom: Solicitação educada de agendamento de reunião
+- Intenção: Garantir a eficácia da reunião estabelecendo um horário que atenda às necessidades de todos os envolvidos

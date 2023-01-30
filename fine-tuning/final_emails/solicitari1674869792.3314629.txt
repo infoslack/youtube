@@ -1,0 +1,19 @@
+-DE: Aluno(a) da Faculdade XYZ
+-PARA: Diretoria de Atividades Extracurriculares
+-ASSUNTO: Solicitação de informações sobre Atividades Extracurriculares
+-INTENÇÃO: Obter mais informações sobre o conteúdo e as atividades disseminadas pela Diretoria em questão.
+-OBJETIVO: Permitir maior aproveitamento das atividades no currículo.
+-TOM: Educado e cortês.
+
+EMAIL:
+
+Prezada Diretoria de Atividades Extracurriculares,
+
+Meu nome é [nome], e sou aluno(a) da Faculdade XYZ. Estou interessado em obter mais informações sobre o conteúdo e as atividades disseminadas pela sua diretoria.
+
+Consciente de que o objetivo da diretoria é proporcionar o aproveitamento determinante das atividades no currículo, gostaria de saber como proceder para iniciar as atividades sugeridas, afinando e direcionando melhor meus interesses.
+
+Agradeço desde já a atenção dispensada, e me coloco à disposição para contatar a diretoria caso necessário.
+
+Atenciosamente, 
+[Nome]

@@ -1,0 +1,6 @@
+DE: Remetente
+PARA: Destinatário
+ASSUNTO: Compartilhando novas notícias sobre nossa empresa
+INTENÇÕES: Fazer com que os destinatários fiquem interessados nas novas notícias e abordá-los sobre os detalhes
+OBJETIVOS: Divulgar as recentes atividades da empresa, promover a empresa e sua marca, aumentar o alcance e o interesse dos clientes
+TOM: Profissional, entusiasta e informativo

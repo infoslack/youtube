@@ -1,0 +1,6 @@
+- ASSUNTO: Solicitação de Feedback de Cliente 
+- DE: Nome da Empresa 
+- PARA: Clientes 
+- INTENÇÃO: Compartilhar o que os clientes pensam sobre nossos serviços, produtos e experiência geral 
+- OBJETIVO: Obter feedback para melhorar e cumprir as necessidades dos nossos clientes 
+- TOM: Respeitoso e gratificante

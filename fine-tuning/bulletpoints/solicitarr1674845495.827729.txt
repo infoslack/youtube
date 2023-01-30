@@ -1,0 +1,6 @@
+DE:  Nome da empresa
+PARA: Clientes que experimentaram o serviço
+ASSUNTO: Solicitando referências de clientes satisfeitos
+INTENÇÃO: Compartilhar o feedback positivo dos clientes com outros clientes em potencial
+OBJETIVO: Promover o melhor serviço possível
+TOM: Obrigado e gratidão aos clientes

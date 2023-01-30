@@ -1,0 +1,7 @@
+1. De: Endereço de e-mail do remetente
+2. Para: Endereço de e-mail dos destinatários 
+3. Assunto: Apresentando os Novos Produtos ou Serviços 
+4. Intenção: Convidar o destinatário a conhecer os novos produtos ou serviços 
+5. Objetivo: Promover os novos produtos ou serviços
+6. Tom: Casual mas profissional 
+7. Conteúdo: Uma breve descrição da qualidade, benefícios e custo-benefício dos novos produtos ou serviços

@@ -1,0 +1,6 @@
+DE: Responsável pelas atualizações do projeto
+PARA: Equipe de desenvolvimento envolvida no projeto
+ASSUNTO: Atualizações sobre o projeto
+INTENÇÃO: Compartilhar informações relevantes sobre o andamento do projeto
+OBJETIVOS: Manter a equipe informada sobre a evolução do projeto
+TOM: Profissional e conciso

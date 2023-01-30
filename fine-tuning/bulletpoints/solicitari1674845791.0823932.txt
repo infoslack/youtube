@@ -1,0 +1,7 @@
+Para: Responsável pela Infraestrutura da Escola
+De: Equipe de monitoramento de Infraestrutura
+Assunto: Solicitação de informações sobre a Infraestrutura da Escola
+Intenção: Buscar informações sobre a estrutura atual da escola
+Objeto: Obter informações sobre os recursos existentes
+Tom: Respeitoso e solícito
+Anexo: Nenhum

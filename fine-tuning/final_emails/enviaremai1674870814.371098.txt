@@ -1,0 +1,26 @@
+- De: Nome da Empresa 
+- Para: Cliente
+- Assunto: Lembrete de compra
+- Intenção: Lembrar ao cliente sobre sua compra atrasada
+- Objeto: Descrever as mercadorias não compradas
+- Tom: Amigável e esclarecedor
+
+EMAIL:
+
+Caro Cliente,
+
+Esperamos que você esteja bem! Estamos aqui para lembrá-lo sobre os produtos que você ainda não comprou.
+
+Estamos oferecendo um grande desconto em cada um dos itens abaixo:
+- Item 1
+- Item 2
+- Item 3
+
+Se você já tiver decidido sobre esses itens, responda para este e-mail e avise-nos. Caso contrário, envie-nos uma mensagem para que possamos ajudá-lo a tomar a melhor decisão.
+
+Esperamos que você possa pegar esses itens, pois eles complementam sua coleção e oferecem grande valor ao seu investimento.
+
+Aguardamos sua resposta.
+
+Atenciosamente,
+Nome da Empresa

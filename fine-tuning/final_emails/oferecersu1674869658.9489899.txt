@@ -1,0 +1,18 @@
+1. Assunto: Oferta de Suporte a Clientes
+2. De: Representante da empresa 
+3. Para: Todos os clientes cadastrados
+4. Objetivo: Oferecer todas as informações possíveis sobre nossos produtos e serviços
+5. Intenção: Manter um relacionamento estável e próximo com os nossos clientes
+6. Tom: Atencioso, caloroso e prestativo
+7. Mensagem: Explicar como podemos oferecer assistência técnica e suporte aos nossos clientes, tirar dúvidas, fornecer informações sobre novos produtos e serviços e fornecer soluções para problemas técnicos.
+
+EMAIL:
+
+Olá, ${Nome do usuário}, 
+ 
+Nós da ${Nome da empresa} gostaríamos de lhe oferecer o nosso suporte completo para o melhor desempenho e uso de nossos produtos e serviços. Com este objetivo em mente, nosso time de profissionais altamente qualificados está à disposição para oferecer assistência técnica e suporte aos nossos clientes. Estamos prontos para ajudá-lo com consultas sobre os nossos produtos e serviços, fornecer soluções para problemas técnicos, informar sobre sobre novas inovações e dar respostas às suas outras necessidades. Estamos empenhados em oferecer o nível máximo de suporte aos nossos clientes. 
+
+Nosso principal objetivo é manter um relacionamento próximo e estável com você. Se tiver alguma outra pergunta, entre em contato conosco.
+
+Atenciosamente,
+${Representante da Empresa}

@@ -1,0 +1,6 @@
+DE: Representante da Empresa
+PARA: Clientes
+ASSUNTO: Promoções
+INTENÇÃO: Avisar sobre promoções
+OBJETIVO: Divulgar promoções atuais
+TOM: Agradável e educado

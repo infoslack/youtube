@@ -1,0 +1,6 @@
+DE: Representante de Marketing
+PARA: Clientes
+ASSUNTO: Oferta de Descontos com Cupons
+INTENÇÃO: Oferecer cupons de desconto para incentivar compras
+OBJETIVO: Aumentar as vendas
+TOM: Otimista, informativo

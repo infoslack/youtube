@@ -1,0 +1,21 @@
+DE:  Seu Nome
+PARA: Destinatário 
+ASSUNTO: Oferecendo ideias para uso de produtos
+INTENÇÃO: Compartilhar sugestões para aproveitar os produtos ao máximo
+OBJETIVO: Ajudar o destinatário a obter o máximo de proveito dos nossos produtos
+TOM: Acessível, útil e direto
+
+EMAIL:
+
+Olá [Nome do Destinatário],
+
+Estou escrevendo para compartilhar algumas ideias sobre como você pode obter o máximo de proveito dos nossos produtos. 
+
+Nossa intenção é garantir que você tenha todas as ferramentas necessárias para aproveitar nossos produtos ao máximo. 
+
+Existem muitas maneiras de usar os nossos produtos para melhorar o desempenho de suas tarefas, e acreditamos que isso levará a resultados mais satisfatórios. Se você tiver alguma dúvida ou quiser saber mais sobre um dos produtos, por favor, entre em contato conosco. Estamos sempre prontos e disponíveis para ajudar. 
+
+Aproveite os nossos produtos e obtenha os melhores resultados!
+
+Atenciosamente, 
+[Seu nome]

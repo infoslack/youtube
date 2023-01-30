@@ -1,0 +1,9 @@
+DE: Remetente
+PARA: Receptor do e-mail 
+ASSUNTO: Utilização efetiva dos produtos
+INTENÇÕES: Explicar as formas sugeridas de usar os produtos
+OBJETIVOS: Explicar como os produtos podem melhorar a vida dos usuários
+TOM: Construtivo e persuasivo
+REFERÊNCIAS: Experiências reais dos usuários 
+FORMATO: Mensagem eficaz e concisa 
+PGTOS: Ações positivas sugeridas após a leitura do e-mail

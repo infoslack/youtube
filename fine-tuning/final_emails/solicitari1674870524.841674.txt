@@ -1,0 +1,21 @@
+1. Assunto: Solicitação de informações sobre os requisitos de admissão
+2. De: [Nome completo]
+3. Para: [Departamento correspondente]
+4. Intenção: Solicitar informações sobre os requisitos de admissão
+5. Objetivo: Obter detalhes sobre a documentação e outros requisitos necessários para a admissão
+6. Tom: Respeitoso e educado
+
+EMAIL:
+
+Assunto: Solicitação de informações sobre os requisitos de admissão
+
+Prezado(a) [Nome],
+
+Meu nome é [Seu nome] e estou interessado(a) em obter informações sobre os requisitos de admissão relacionados à [Instituição/Curso/etc.]. Estou buscando informações detalhadas sobre a documentação e outros requisitos necessários para a admissão.
+
+Gostaria muito que me ajudasse nessa tarefa. Se tiver alguma dúvida ou quiser informações adicionais, não hesite em entrar em contato.
+
+Obrigado por sua ajuda.
+
+Atenciosamente,
+[Seu Nome]

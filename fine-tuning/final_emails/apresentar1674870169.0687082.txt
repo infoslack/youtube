@@ -1,0 +1,29 @@
+DE: Vendedor
+PARA: Cliente
+ASSUNTO: Ideias para melhorar a produtividade
+INTENÇÃO: Apresentar sugestões de estratégias para aumentar a produtividade
+OBJETIVO: Apresentar soluções para aumentar a eficiência operacional 
+TOM: Profissional e consciente
+
+EMAIL:
+
+Para: [cliente]
+De: [vendedor]
+Assunto: Ideias para melhorar a produtividade
+
+Prezado [cliente],
+
+Espero que esteja tendo um excelente dia. Estou escrevendo para compartilhar algumas estratégias que podem ser úteis para aumentar a produtividade e a eficiência operacional da sua empresa.
+
+De acordo com minha experiência, algumas das melhores maneiras de aumentar a produtividade no local de trabalho incluem:
+ 
+• Automatizar processos manuais ou repetitivos, se possível;
+• Criar e seguir um plano de trabalho detalhado;
+• Promover um ambiente de trabalho saudável para estimular a colaboração entre colegas;
+• Estabelecer rotinas de qualidade de vida no local de trabalho, como pausas para almoço mais longas ou descontos em serviços de spa;
+• Oferecer treinamento de idiomas e ferramentas de tecnologia para o desenvolvimento pessoal e profissional da equipe.
+
+Estou à disposição para fornecer mais informações sobre como melhorar a produtividade do seu negócio. Por favor, não hesite em contactar-me se tiver alguma dúvida.
+
+Atenciosamente,
+[Vendedor]

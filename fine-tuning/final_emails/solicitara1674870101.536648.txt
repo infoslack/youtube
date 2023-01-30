@@ -1,0 +1,24 @@
+DE: Solicitante 
+PARA: Chefe 
+ASSUNTO: Pedido de Aumento de Salário 
+INTENÇÃO: Mostrar Gratidão e Apresentar Uma Proposta Justa 
+OBJETIVO: Demonstrar Valor e Obter Aumento de Salário 
+TOM: Respeitoso e Profissional
+
+EMAIL:
+
+Para: [Seu Chefe]
+Assunto: Pedido de Aumento de Salário
+
+Prezado [Seu Chefe],
+
+Eu queria agradecer por me dar a oportunidade de trabalhar para [Empresa], e por proporcionar um ambiente profissional que me permite adquirir habilidades e melhorar meus conhecimentos.
+
+Eu acredito que sou um colaborador dedicado e merecedor. Tenho me empenhado para ajudar a empresa a atingir seus metas, contribuindo para o crescimento do negócio. Hoje, eu gostaria de discutir com você a possibilidade de um aumento salarial.
+
+Depois de considerar minhas contribuições positivas, a minha intenção é mencionar uma proposta justa, e demonstrar que eu sou um membro valioso da equipe.
+
+Eu agradeço seu tempo e espero discutir essa solicitação em detalhes em breve.
+
+Atenciosamente,
+[Seu Nome]

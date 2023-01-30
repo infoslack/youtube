@@ -1,0 +1,21 @@
+1. De: Nome do Remetente
+2. Para: Possíveis Participantes
+3. Assunto: Pesquisa – Participação Solicitada
+4. Intenções: Convidar para Participar na Pesquisa
+5. Objetivos: Obter Dados para Melhorar o Produto Oferecido
+6. Tom: Oportunidade para Obter Dados Valiosos para o Desenvolvimento de Produtos Novos
+
+EMAIL:
+
+Assunto: Participe da nossa pesquisa sobre o nosso produto.
+
+Prezados(as) Possíveis Participantes,
+
+Estamos iniciando uma pesquisa para obter dados sobre o nosso produto e gostaríamos de convidá-los a participar. Acreditamos que as informações obtidas nessa pesquisa serão de grande valor para o desenvolvimento de novos produtos.
+
+Por esse motivo, estamos oferecendo a vocês esta oportunidade de colaborar para aprimorar nossa oferta de produtos. Caso deseje participar, entre em contato conosco.
+
+Obrigado por seu tempo e contribuição.
+
+Atenciosamente,
+[Nome do Remetente]

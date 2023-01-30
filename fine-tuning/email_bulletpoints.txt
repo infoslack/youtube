@@ -1,0 +1,6 @@
+Dado o seguinte cenário, escreva o e-mail perfeito.
+
+CENÁRIO:
+<<SCENARIO>>
+
+E-MAIL:

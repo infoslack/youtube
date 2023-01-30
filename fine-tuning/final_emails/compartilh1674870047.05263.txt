@@ -1,0 +1,21 @@
+DE: 
+PARA: 
+ASSUNTO: Compartilhamento de recibos de pagamento
+INTENÇÃO: Solicitar que os destinatários compartilhem seus recibos de pagamento
+OBJETIVO: Obter uma visão geral dos padrões de despesas dos destinatários
+TOM: Profissional e respeitoso
+
+EMAIL:
+
+De: (Seu nome aqui)
+Para: (Nome(s) do(s) destinatário(s))
+Assunto: Compartilhamento de recibos de pagamento
+
+Prezado(s) (nome(s) do(s) destinatário(s)),
+
+Gostaria de pedir-lhe(s) para compartilhar o(s) seu(s) recibo(s) de pagamento. Estou trabalhando em um projeto de pesquisa para compreender os padrões de despesas e uma visão geral da população.
+
+Agradeço muito sua colaboração e compreensão com esta pesquisa. Seu tempo e esforço são muito apreciados.
+
+Agradecido(a),
+(Seu nome aqui)

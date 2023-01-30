@@ -1,0 +1,6 @@
+DE: Representante da empresa
+PARA: Todos os clientes
+ASSUNTO: Compartilhando conteúdos informativos
+INTENÇÃO: Promover maior conhecimento sobre nossos produtos
+OBJETIVO: melhorar a experiência dos clientes
+TOM: Informativo e dinâmico

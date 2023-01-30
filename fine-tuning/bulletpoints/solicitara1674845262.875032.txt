@@ -1,0 +1,6 @@
+DE: Solicitante 
+PARA: Chefe 
+ASSUNTO: Pedido de Aumento de Salário 
+INTENÇÃO: Mostrar Gratidão e Apresentar Uma Proposta Justa 
+OBJETIVO: Demonstrar Valor e Obter Aumento de Salário 
+TOM: Respeitoso e Profissional

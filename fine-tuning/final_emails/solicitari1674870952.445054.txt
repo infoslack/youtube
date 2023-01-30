@@ -1,0 +1,21 @@
+1. DE: Solicitante 
+2. PARA: Executor do Projeto
+3. ASSUNTO: Solicitando informações adicionais
+4. INTENÇÃO: Clarificar as informações necessárias para o projeto
+5. OBJETIVO: Compartilhar as expectativas para o projeto e conseguir o máximo de informações relevantes possível
+6. TOM: Profissional, colaborativo e amigável
+
+EMAIL:
+
+Caro Executor do Projeto,
+
+Estou escrevendo com a intenção de clarificar as informações necessárias para o nosso projeto conjunto e compartilhar nossas expectativas para o mesmo.
+
+Gostaria de saber o que você considera relevante para o projeto e se existem informações adicionais que possam ajudar nosso trabalho.
+
+Espero que possamos colaborar de forma profissional, amigável e que possamos obter o melhor resultado final possível.
+
+Obrigado pela sua atenção e por sua ajuda.
+
+Sinceramente,
+[Nome do Solicitante]

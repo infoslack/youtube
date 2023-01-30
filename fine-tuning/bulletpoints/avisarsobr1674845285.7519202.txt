@@ -1,0 +1,6 @@
+-- Assunto: Mudanças de prazos
+-- De: Seu nome
+-- Para: Nome do destinatário
+-- Intenção: Avisar sobre alteração de agenda
+-- Objetivo: Notificar a mudança de planos
+-- Tom: Prevenção e cordialidade

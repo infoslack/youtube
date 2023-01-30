@@ -1,0 +1,23 @@
+- DE: Seu nome e título do e-mail
+- PARA: Destinatário do e-mail
+- ASSUNTO: Solicitação de informações para pesquisas
+- INTENÇÕES: Descrever detalhadamente a finalidade e objetivo da solicitação
+- OBJETIVOS: Obter informações relevantes e oportunas para a pesquisa em questão
+- TOM: Simpático e educado
+
+EMAIL:
+
+Assunto: Solicitação de informações para pesquisas
+
+Prezado(a) [Destinatário],
+
+Meu nome é [Seu nome], e sou pesquisador responsável por uma importante análise sobre [assunto].
+
+Gostaria de saber se pode-mos contar com sua ajuda para esse projeto. Por isso, eu me esforçaria para descrever detalhadamente o objetivo central desta pesquisa.
+
+O nosso objetivo é obter informações relevantes e oportunas para contribuir com este projeto de pesquisa. Acredito que o seu conhecimento em [assunto] possa nos ajudar muito.
+
+Aproveito para agradecer pela leitura deste e-mail. Fico no aguardo para um retorno.
+
+Atenciosamente,
+[Seu nome]

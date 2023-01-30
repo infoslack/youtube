@@ -1,0 +1,6 @@
+- De: Seu nome 
+- Para: Diretor da Faculdade 
+- Assunto: Solicitação de Informações sobre as Instalações 
+- Intenção: Obter mais detalhes sobre as instalações da faculdade 
+- Objetivo: Garantir uma maior compreensão do que está disponível na faculdade 
+- Tom: Respeitoso e educado

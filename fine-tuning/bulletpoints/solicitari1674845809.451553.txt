@@ -1,0 +1,6 @@
+DE: Nome/Organização
+PARA: Responsável/Nome da Universidade
+ASSUNTO: Solicitação de Informações acerca dos Cursos oferecidos
+INTENÇÕES: Obter detalhes sobre cursos e programas
+OBJETIVO: Obter informações para a tomada de decisão para matrícula 
+TOM: Profissional/Cordial

@@ -1,0 +1,24 @@
+- DE: Uma empresa em expandir internacionalmente
+- PARA: Clientes fiéis
+- ASSUNTO: Oferecendo descontos 
+- INTENÇÕES: Apresentar um incentivo para habilitar os clientes a gastar mais
+- OBJETIVO: Reconhecer a lealdade dos clientes e premiá-los por isso
+- TOM: Otimista com informações específicas sobre o plano de descontos 
+- RECOMENDAÇÃO: Capacitar os clientes a economizarem e aproveitarem as ofertas
+
+EMAIL:
+
+Caros clientes fiéis,
+
+Estamos empolgados em anunciar a expansão internacional da empresa e queremos lhe oferecer a possibilidade de economizar enquanto aproveitando as novas ofertas. 
+
+Aproveite o nosso plano de descontos exclusivo para clientes leais. Você economizará 5% nas compras acima de 500 reais e 10% nas compras acima de 1000 reais. Isso significa que quanto mais você compra, mais você economiza e mais vantagem você obtém!
+
+Compartilhe nossa oferta com seus amigos e familiares para que eles também possam aproveitar os descontos. 
+
+Estamos encantados em reconhecer a sua lealdade e agradecer-lhe premiando-o por isso.
+
+Agradecemos por sua diligência e estamos à disposição em caso de dúvidas.
+
+Atenciosamente,
+[Nome da Empresa]

@@ -1,0 +1,6 @@
+DE:  Seu Nome
+PARA: Destinatário 
+ASSUNTO: Oferecendo ideias para uso de produtos
+INTENÇÃO: Compartilhar sugestões para aproveitar os produtos ao máximo
+OBJETIVO: Ajudar o destinatário a obter o máximo de proveito dos nossos produtos
+TOM: Acessível, útil e direto

@@ -1,0 +1,20 @@
+DE: Remetente
+PARA: Destinatário
+ASSUNTO: Pedido de Ajuda para Completar uma Tarefa
+INTENÇÃO: Solicitar Apoio
+OBJETIVO: Terminar a Tarefa com Mais Eficiência
+PORQUE: Explicação da Necessidade de Ajuda
+TOM: Sensibilidade/Comunicação Respeitosa
+
+EMAIL:
+
+Olá [INSERIR NOME DO DESTINATÁRIO],
+
+Eu estou solicitando sua ajuda para terminar uma tarefa rapidamente. Como [EXPLICAÇÃO DA NECESSIDADE], preciso de sua ajuda para completar essa tarefa no menor tempo possível.
+
+Sei que você é extremamente proficiente em execução de tarefas, e estou certo de que, com o seu suporte, essa tarefa será concluída mais rápido. Seria uma honra se você aceitasse ajudar-me a terminar esta tarefa.
+
+Muito obrigado pela sua atenção.
+
+Saudações,
+[NOME DO REMETENTE]

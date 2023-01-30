@@ -1,0 +1,26 @@
+De:  Nome do Organizador
+Para: Lista de destinatários
+Assunto: Convite para Eventos de Marketing
+Data: Data e horário do Evento
+Local: Endereço do Evento
+Mensagem: Informação sobre o Evento
+Intenção: Convite para participar do evento
+Tom: Amigável e convidativo
+Finalidade: Reforçar a presença no evento e trazer mais informações
+
+EMAIL:
+
+Queridos amigos,
+
+Espero que estejam todos bem!
+
+Estou muito empolgado em lhes convidar a participar do nosso evento de marketing que ocorrerá em [data/local do evento]. Aproveitarão a oportunidade para conhecer outros profissionais da área de marketing, interagir e descobrir novas informações de negócios.
+
+O evento dará acesso a excelente conteúdo educacional e motivacional, além disso, os participantes terão a oportunidade de conhecer pessoas novas e, quem sabe, começar uma rede de contatos com pessoas da mesma área.
+
+Esperamos que você possa se juntar a nós para este incrível evento! Se tiver quaisquer dúvidas ou precisar de mais informações, não hesite em perguntar.
+
+Aguardamos ansiosamente sua presença!
+
+Atenciosamente,
+[Nome do Organizador]

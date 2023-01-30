@@ -1,0 +1,10 @@
+- De: Nome do Solicitante 
+- Para: Possíveis Doadores/Patrocinadores 
+- Assunto: Apelo para Doação/Patrocínio para o Projeto 
+- Objetivo: Influenciar os Destinatários para Financiar o Projeto 
+- Intenção: Destacar os Benefícios do Projeto para as Partes Envolvidas 
+- Desenvolvimento: Explicar como Serão Utilizados os Recursos 
+- Expectativas: Definição das Metas para Alcançar com o Projeto 
+- Resumo: Breve Descrição dos Resultados Esperados 
+- Pedido: Manifestação da Requisição dos Recursos Necessários 
+- Tom: Amigável e Encorajador

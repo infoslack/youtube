@@ -1,0 +1,6 @@
+- De: [Nome], Investidor
+- Para: [Nome], Especialista em Investimentos
+- Assunto: Solicitação de informações sobre Investimentos
+- Intenção: Obter informações para realizar investimentos de forma segura
+- Objetivos: Analisar as melhores opções de investimento
+- Tom: Agradecimento e respeito pelo conhecimento profissional

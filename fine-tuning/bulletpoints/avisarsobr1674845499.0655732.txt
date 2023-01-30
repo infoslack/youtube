@@ -1,0 +1,6 @@
+- De: Empresa X 
+- Para: Clientes 
+- Assunto: Atrasos nos pagamentos 
+- Intenção: Avisar sobre o imprevisto.
+- Objetivo: Solicitar compreensão dos clientes e fornecer informações sobre o andamento dos pagamentos.
+- Tom: Compreensivo e profissional.

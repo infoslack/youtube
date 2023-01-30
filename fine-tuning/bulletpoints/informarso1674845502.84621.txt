@@ -1,0 +1,8 @@
+De: Gerente de cobrança
+Para: A equipe de finanças 
+Assunto: Atualização de políticas de cobrança
+Intenção: Comunicar mudanças nas políticas de cobrança 
+Objetivo: Dar informações detalhadas sobre quais políticas foram alteradas
+Tom: É importante manter um tom profissional e informativo 
+Desenvolvimento: Perspectiva, discussão e exemplo de como os processos mudaram
+Conclusões: Conclusões sobre o impacto dessas mudanças, responsabilidades, etc.

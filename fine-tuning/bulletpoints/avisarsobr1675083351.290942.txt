@@ -1,0 +1,6 @@
+- DE: Gerente da empresa
+- PARA: Funcionários
+- ASSUNTO: Alterações nas políticas da empresa
+- INTENÇÃO: Avisar sobre as modificações recentes das políticas da empresa
+- OBJETIVO: Assegurar que todos os funcionários estejam cientes das mudanças
+- TOM: Profissional, direto e respeitoso

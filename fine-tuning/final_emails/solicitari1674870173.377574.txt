@@ -1,0 +1,19 @@
+DE:  Pesquisador enviando e-mail 
+PARA:  Escola de Finanças
+ASSUNTO:  Solicitação de informações sobre financiamento e bolsas 
+INTENÇÕES:  Obter informações sobre financiamento e bolsas disponíveis para estudantes 
+OBJETIVO:  Obter informações detalhadas a fim de se saber quais opções estão disponíveis para financiar estudos 
+TOM:  Profissional e cortês
+
+EMAIL:
+
+Para quem possa interessar,
+
+Eu sou um pesquisador universitário procurando informações detalhadas sobre financiamento e bolsas disponíveis para estudantes na Escola de Finanças.
+
+Gostaria de saber quais opções estão disponíveis para financiar estudos. Ficaria grato se me pudesse fornecer essas informações.
+
+Obrigado pela sua ajuda.
+
+Cordialmente,
+[Nome]

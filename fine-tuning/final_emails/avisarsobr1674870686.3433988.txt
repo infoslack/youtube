@@ -1,0 +1,24 @@
+DE: Representante da Empresa
+PARA: Clientes
+ASSUNTO: Promoções
+INTENÇÃO: Avisar sobre promoções
+OBJETIVO: Divulgar promoções atuais
+TOM: Agradável e educado
+
+EMAIL:
+
+Prezados Clientes,
+
+Queremos agradecer a todos vocês pela incrível parceria que temos desde o início. Estamos entusiasmados em oferecer ótimas promoções para vocês. Atualmente temos ofertas em produtos selecionados que tornarão sua experiência ainda melhor.
+
+Visite nosso site e explore as opções disponíveis. Não perca a chance de conseguir nossos produtos com descontos imperdíveis. Nossos vendedores também estão prontos para te ajudar.
+
+Esperamos contar com a sua presença para aproveitar estes benefícios.
+
+Sinta-se à vontade para entrar em contato caso tenha dúvidas.
+
+Agradecemos pela preferência.
+
+Atenciosamente,
+
+Representante da Empresa

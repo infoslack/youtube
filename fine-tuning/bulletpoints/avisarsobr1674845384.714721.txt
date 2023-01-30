@@ -1,0 +1,6 @@
+1. De: Nome do Remetente
+2. Para: Destinatário(s)
+3. Assunto: Alteração no Horário do Evento Familiar
+4. Intenção: Comunicar os horários alterados das atividades familiares
+5. Objetivo: Garantir entendimento clareza sobre os novos horários
+6. Tom: Prático e simples

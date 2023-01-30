@@ -1,0 +1,6 @@
+DE: Nome organizador/contato
+PARA: Membros da família 
+ASSUNTO: Anunciar sobre o próximo evento familiar
+INTENÇÃO: Compartilhar as informações do evento com os familiares 
+OBJETIVO: Reunir todos e desfrutar de um dia de encontro em família 
+TOM: Alegre, celebrativo e divertido

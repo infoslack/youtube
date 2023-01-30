@@ -1,0 +1,23 @@
+DE: 
+Para: 
+Assunto: Solicitação de ajuda para tarefas domésticas
+Intenção: Encontrar uma pessoa para ajudar com tarefas domésticas
+Objetivo: Economizar tempo e energia na realização de tarefas domésticas 
+Tom: Solicitação educada e amigável da ajuda desejada
+
+EMAIL:
+
+De: Seu endereço de e-mail 
+Para: Endereço de e-mail da pessoa que você deseja solicitar ajuda
+Assunto: Solicitação de ajuda para tarefas domésticas
+
+Olá,
+
+Estou escrevendo para solicitar que você me ajude com algumas tarefas domésticas. Sei que existem muitas outras coisas que você pode fazer no seu tempo livre, então fique à vontade para me dizer se não tiver tempo para ajudar. 
+
+Entendo que economizar tempo e energia se torna ainda mais importante na atualidade, e estou procurando maneiras de aproveitar meu tempo com mais eficiência. É por isso que estou pedindo a sua ajuda. Se tiveres tempo para me dar um empurrãozinho, eu ficaria muito grato. 
+
+Agradeço antecipadamente.
+
+Atenciosamente,
+[Seu Nome]

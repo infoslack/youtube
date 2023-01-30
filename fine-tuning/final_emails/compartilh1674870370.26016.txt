@@ -1,0 +1,21 @@
+DE: Representante da empresa
+PARA: Todos os clientes
+ASSUNTO: Compartilhando conteúdos informativos
+INTENÇÃO: Promover maior conhecimento sobre nossos produtos
+OBJETIVO: melhorar a experiência dos clientes
+TOM: Informativo e dinâmico
+
+EMAIL:
+
+Prezados Clientes,
+
+Estamos comprometidos em melhorar continuamente a qualidade e a experiência dos nossos serviços, sendo assim, queremos compartilhar conteúdos informativos com vocês, para que também saibam sobre os nossos produtos e serviços.
+
+Navegue pelo nosso site/blog para presenciar informações precisas e atualizadas relacionadas a nossos produtos.
+
+Se tiver alguma dúvida ou gostaria de saber mais, não hesite em nos contatar! Estamos sempre à disposição.
+
+Agradecemos a todos e continuamos a trabalhar para garantir as melhores soluções em serviços.
+
+Atentamente,
+[Nome da empresa]

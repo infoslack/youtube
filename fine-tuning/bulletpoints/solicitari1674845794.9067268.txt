@@ -1,0 +1,6 @@
+DE: 
+PARA: 
+ASSUNTO: Informações sobre eventos esportivos
+INTENÇÃO: Ter informações sobre eventos esportivos
+OBJETIVO: Reunir informações sobre eventos esportivos
+TOM: Solicitação amigável e gentil

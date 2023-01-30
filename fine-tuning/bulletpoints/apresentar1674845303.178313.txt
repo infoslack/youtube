@@ -1,0 +1,6 @@
+DE: Vendedor
+PARA: Cliente
+ASSUNTO: Ideias para melhorar a produtividade
+INTENÇÃO: Apresentar sugestões de estratégias para aumentar a produtividade
+OBJETIVO: Apresentar soluções para aumentar a eficiência operacional 
+TOM: Profissional e consciente

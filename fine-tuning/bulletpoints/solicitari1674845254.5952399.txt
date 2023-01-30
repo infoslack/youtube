@@ -1,0 +1,6 @@
+1. DE: Solicitante 
+2. PARA: Executor do Projeto
+3. ASSUNTO: Solicitando informações adicionais
+4. INTENÇÃO: Clarificar as informações necessárias para o projeto
+5. OBJETIVO: Compartilhar as expectativas para o projeto e conseguir o máximo de informações relevantes possível
+6. TOM: Profissional, colaborativo e amigável

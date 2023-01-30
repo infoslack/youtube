@@ -1,0 +1,7 @@
+I - Para: Clientes 
+II - Assunto: Oferta de Suporte para Pagamentos 
+III - Objetivo: Apresentar oferta de suporte especializado para o gerenciamento dos pagamentos de clientes 
+IV - Intenção: Demonstrar soluções para facilitar o processo de pagamento dos clientes 
+V - Tom: Profissional e acolhedor 
+VI - Possíveis Soluções: Serviços especializados para ajudar nos pagamentos das contas e transferências bancárias 
+VII - Benefícios: Economia de tempo, menos preocupações e segurança nos pagamentos.

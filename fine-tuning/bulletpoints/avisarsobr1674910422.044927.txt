@@ -1,0 +1,5 @@
+-PARA: Colaboradores da empresa
+-ASSUNTO: Alterações nas políticas da empresa
+-INTENÇÃO: Notificar sobre as modificações ocorridas
+-OBJETIVO: Incentivar o cumprimento da nova política
+-TOM: Profissional e informativo

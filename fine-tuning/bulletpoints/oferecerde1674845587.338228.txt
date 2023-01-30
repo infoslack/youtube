@@ -1,0 +1,17 @@
+DE: Representante Comercial 
+
+PARA: Novos Clientes 
+
+ASSUNTO: Oferta especial de descontos 
+
+OBJETIVO: Promover descontos exclusivos 
+
+INTENÇÃO: Apresentar oportunidade única de economia para novos clientes 
+
+INCLUSO: Detalhes da oferta de desconto 
+
+NECESSÁRIO: Código promocional para destravar os descontos 
+
+PRAZO: Validade da promoção 
+
+TOM: Convite caloroso para aproveitar os descontos

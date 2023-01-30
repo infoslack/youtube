@@ -1,0 +1,13 @@
+DE: Representante da empresa
+
+PARA: Cliente
+
+ASSUNTO: Descontos especiais para você
+
+INTENÇÕES: Oferecer descontos especiais para os clientes da marca
+
+OBJETIVOS: Promover lealdade de marca e encorajar a fidelização do cliente
+
+CONTEÚDO: Uma descrição dos ofertas especiais disponíveis
+
+TOM: Acolhedor e convidativo

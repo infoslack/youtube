@@ -1,0 +1,19 @@
+De:  Nome do Remetente 
+Para: Nome do Destinatário
+Assunto: Solicitação de informações sobre o processo de matrícula 
+Intenção: Obter informações sobre o processo de matrícula 
+Objetivos: Fornecer detalhes sobre o processo de matrícula, incluindo documentos, custos e outras informações relevantes 
+Tom: Amigável, educado e profissional
+
+EMAIL:
+
+Caro [Nome do Destinatário],
+
+Espero que você esteja bem. Eu sou [Nome do Remetente], um interessado no processo de matrícula do [Escola/Instituição]. Estou escrevendo para solicitar informações sobre o processo de matrícula, incluindo documentos, custos e quaisquer outras informações necessárias para me matricular.
+
+Eu sou grato pelo seu tempo e consideração sobre este assunto. Por favor, deixe-me saber como posso ser útil neste processo ou quaisquer outras perguntas ou preocupações relacionadas.
+
+Obrigado novamente.
+
+Atenciosamente,
+[Nome do Remetente]

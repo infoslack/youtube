@@ -1,0 +1,26 @@
+1. De: Seu nome
+2. Para: Responsável pela Biblioteca
+3. Assunto: Solicitando informações sobre a Biblioteca 
+4. Intenção: Obter informações sobre os serviços oferecidos, horário de funcionamento, facilidades de acesso e assim por diante.
+5. Objetivo: Ter todas as informações necessárias para utilizar a Biblioteca.
+6. Tom: Cortês, Profissional.
+
+EMAIL:
+
+De: Seu nome
+
+Para: Responsável pela Biblioteca
+
+Assunto: Solicitando informações sobre a Biblioteca
+
+Prezado Responsável,
+
+Gostaria de obter informações sobre os serviços oferecidos pela Biblioteca, como o horário de funcionamento, as facilidades de acesso, entre outros.
+
+Estou interessado em ter todas as informações necessárias para poder usar o recurso com eficiência e praticidade.
+
+Agradeço antecipadamente pela sua atenção e colaboração.
+
+Atenciosamente,
+
+Seu nome

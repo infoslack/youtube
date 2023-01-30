@@ -1,0 +1,6 @@
+DE: Gerente de suporte técnico 
+PARA: Clientes 
+ASSUNTO: Oferta de suporte técnico 
+INTENÇÃO: Oferecer uma lista com os nossos serviços de suporte técnico
+OBJETIVO: Promover uma experiência mais eficaz e positiva aos nossos clientes 
+TOM: Simpático e Cooperativo

@@ -1,0 +1,6 @@
+DE: Equipe de Marketing
+PARA: Clientes
+ASSUNTO: Oferta de Prêmios
+INTENÇÕES: Fomentar o relacionamento e proporcionar uma experiência agradável para os clientes
+OBJETIVO: Apresentar uma seleção de prêmios especiais para aqueles que participarem da oferta
+TOM: Alegre, animado e convidativo

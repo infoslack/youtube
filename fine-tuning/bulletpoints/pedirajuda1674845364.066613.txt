@@ -1,0 +1,6 @@
+DE: Nome do Remetente
+PARA: Nome do Destinatário
+ASSUNTO: Pedido de Ajuda para Organizar um Evento Familiar
+INTENÇÕES: Explicar a situação e solicitar ajuda na organização do evento
+OBJETIVO: Garantir o sucesso do evento por meio de equipe de trabalho
+TOM: Amigável e comprometido.

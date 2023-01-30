@@ -1,0 +1,6 @@
+DE: Site de conteúdos 
+PARA: Usuários da Plataforma 
+ASSUNTO: Novos conteúdos lançados 
+INTENÇÃO: Compartilhar novidades relacionadas à Plataforma 
+OBJETIVO: Chamar a atenção para novos conteúdos em destaque 
+TOM: Um convite para os usuários descobrirem novas possibilidades de se divertirem

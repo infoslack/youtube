@@ -1,0 +1,6 @@
+- De: Investidor
+- Para: Suporte a Investidores
+- Assunto: Oferecendo suporte a investidores
+- Intenções: Oferecer serviços de suporte voltados para investidores
+- Objetivos: Identificar necessidades e fornecer soluções para investidores
+- Tom: Solicitação de colaboração para ajudar a melhorar o acesso a informações e serviços aos investidores

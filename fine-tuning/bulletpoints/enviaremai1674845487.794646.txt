@@ -1,0 +1,6 @@
+DE: Remetente 
+PARA: Destinatário 
+ASSUNTO: Lembrete para compra 
+INTENÇÃO: Solicitar o pagamento o mais rápido possível 
+OBJETIVO: Concluir as compras de produtos 
+TOM: Saudavel e cordial

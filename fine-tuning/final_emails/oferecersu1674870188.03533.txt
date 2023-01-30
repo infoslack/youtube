@@ -1,0 +1,28 @@
+DE: Remetente
+PARA: Receptor do e-mail 
+ASSUNTO: Utilização efetiva dos produtos
+INTENÇÕES: Explicar as formas sugeridas de usar os produtos
+OBJETIVOS: Explicar como os produtos podem melhorar a vida dos usuários
+TOM: Construtivo e persuasivo
+REFERÊNCIAS: Experiências reais dos usuários 
+FORMATO: Mensagem eficaz e concisa 
+PGTOS: Ações positivas sugeridas após a leitura do e-mail
+
+EMAIL:
+
+Assunto: Como usar melhor nossos produtos
+
+Olá [Receptor],
+
+Esperamos que você e sua família estejam bem. Queremos aproveitar essa oportunidade para compartilhar com você algumas formas eficazes de usar nossos produtos.
+
+Os produtos têm sido muito bem recebidos por nossos usuários. Usá-los diariamente pode nos ajudar muito com nosso bem-estar, nos dando um tempo de lazer, melhorando as tarefas domésticas e, em geral, facilitando nossas atividades cotidianas.
+
+Espero que tenha compartilhado algumas dicas construtivas e motivadoras para que você possa obter o máximo de seus produtos. Suas experiências reais são muito valiosas, pois ajudam a compartilhar com outros usuários, como você, como tirar o maior proveito dos produtos.
+
+Se sentir os efeitos positivos deles, convidamos você a compartilhar suas sugestões com outros usuários para que todos possam aproveitar os benefícios dos produtos que oferecemos.
+
+Encerro agradecendo a sua atenção. Ficamos à disposição para mais informações sobre como aproveitar os produtos no dia a dia.
+
+Atenciosamente, 
+[Remetente]

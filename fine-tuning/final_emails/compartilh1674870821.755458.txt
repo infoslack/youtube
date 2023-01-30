@@ -1,0 +1,19 @@
+DE: Remetente 
+ PARA: Destinatário 
+ ASSUNTO: Compartilhamento de artigos relacionados ao Negócio 
+ OBJETIVO: Estimular o conhecimento sobre temas relacionados ao negócio 
+ TOM: Cordial 
+ INTENÇÃO: Inspirar discussões sobre a atualização dos conceitos
+
+EMAIL:
+
+Caro [Destinatário],
+
+Você sabe a importância de se manter atualizado diante dos acontecimentos atuais que envolvem os negócios. Por isso, acredito que você vai gostar dos artigos que compartilho com você. 
+
+Hoje, separei alguns materiais que podem lhe estimular a reflexão sobre temas que impactam diretamente, especialmente, seu atual conhecimento. 
+
+Esta leitura tem o intuito de lhe inspirar discussões com os demais membros da empresa e lhe dar subsídios para manter o negócio atualizado. Espero que você e sua equipe aproveitem ao máximo esse material.
+
+Com os melhores votos,
+[Remetente]

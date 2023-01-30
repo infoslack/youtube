@@ -1,0 +1,7 @@
+-DE: Remetente 
+-PARA: Destinatários 
+-ASSUNTO: Convite para Evento Promocional 
+-Conteúdo: Descrição detalhada do evento durante o qual os convidados poderão aproveitar vantagens diversas
+-Intenção: Convidar destinatários para o evento 
+-Objetivo: Encorajar destinatários a participarem do evento 
+-Tom: Amigável e atrativo

@@ -1,0 +1,23 @@
+- De: `Nome do remetente`
+- Para: `Nome do destinatário`
+- Assunto: `Feedback do Projeto`
+- Intenção: `Solicitar avaliação do Projeto` 
+- Objetivo: `Aperfeiçoamento do Projeto` 
+- Tom: `Solicitação de cooperação` 
+- Prazo: `Data limite para o envio de feedback`
+
+EMAIL:
+
+Assunto: Feedback do Projeto 
+
+Prezado(a) <Nome do destinatário>,
+
+Espero que este e-mail o encontre bem. Estou entusiasmado(a) com o resultado do nosso projeto, e estou confiante de que, com a sua colaboração, podemos torná-lo ainda melhor.
+
+Gostaria de solicitar sua contribuição e sugestões para melhorar o projeto. Meu objetivo aqui é aprender e ver as coisas dos seus pontos de vista. Ficaria muito grato se pudesse avaliar este projeto até a data <data limite> e me deixar ciente de suas considerações a respeito dele.
+
+Sua ajuda é muito apreciada, e tenho certeza que juntos teremos um resultado excelente. Por gentileza, entre em contato comigo a qualquer momento se tiver mais perguntas ou dúvidas.
+
+Agradeço antecipadamente a sua ajuda e cooperação,
+
+<Nome do remetente>

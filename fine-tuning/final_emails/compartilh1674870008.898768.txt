@@ -1,0 +1,25 @@
+- De:
+- Para: 
+- Assunto: Compartilhamento de informações sobre promoções
+- Intenção: Compartilhar informações sobre promoções disponíveis
+- Objetivos: Propiciar ao destinatário novas experiências e acesso a ofertas e promoções exclusivas
+- Tom: Simpático, encorajador e profissional
+
+EMAIL:
+
+De: 
+Para: 
+Assunto: Compartilhamento de informações sobre promoções
+
+Olá [ destinatário ],
+
+Espero que você esteja bem. Estou aqui para compartilhar com você as informações sobre as melhores ofertas e promoções disponíveis para você.
+
+Estou certo de que as novas experiências de que você pode desfrutar a partir destas promoções exclusivas irão lhe proporcionar grandes vantagens e aprimorar sua experiência.
+
+Certifique-se de aproveitar ao máximo todas as oportunidades disponíveis e obter o melhor custo-benefício de suas compras. 
+
+Não hesite em contactar-nos caso precise de mais esclarecimentos.
+
+Atentamente,
+[Remetente]

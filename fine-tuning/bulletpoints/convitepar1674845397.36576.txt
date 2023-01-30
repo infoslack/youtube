@@ -1,0 +1,9 @@
+De:  Nome do Organizador
+Para: Lista de destinatários
+Assunto: Convite para Eventos de Marketing
+Data: Data e horário do Evento
+Local: Endereço do Evento
+Mensagem: Informação sobre o Evento
+Intenção: Convite para participar do evento
+Tom: Amigável e convidativo
+Finalidade: Reforçar a presença no evento e trazer mais informações

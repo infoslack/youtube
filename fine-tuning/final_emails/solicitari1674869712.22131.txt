@@ -1,0 +1,19 @@
+- De:  aluno(a)
+- Para: administração da universidade
+- Assunto: Solicitação de informações sobre alojamento estudantil
+- Intenção: obter informações sobre preços, disponibilidade de vagas, centros de estudo e outras informações que possam ajudar na decisão
+- Objetivo: descobrir as melhores opções de alojamento para estudantes
+- Tom: formal, porém amigável
+
+EMAIL:
+
+Assunto: Solicitação de informações sobre alojamento estudantil
+
+Prezada administração da Universidade,
+
+Sou um(a) aluno(a) interessado(a) em obter informações sobre alojamento estudantil. Estou pesquisando as melhores opções disponíveis e gostaria saber se seria possível receber informações sobre preços, vagas, centros de estudo e recursos que sua instituição oferece.
+
+Agradeço sua ajuda e ficaria grato(a) se pudesse me informar o caminho a seguir para me obter essas informações.
+
+Att,
+[Nome do aluno(a)]

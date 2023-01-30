@@ -1,0 +1,17 @@
+- Assunto: Informações sobre eventos acadêmicos
+- De: Seu nome
+- Para: Recepção da Instituição Acadêmica
+- Intenção: Solicitar informações sobre eventos acadêmicos
+- Objeto: Reconhecimento dos eventos acadêmicos e detalhes sobre como participar
+- Tom: Respeitoso e amigável
+
+EMAIL:
+
+Caro pessoal da Recepção da Instituição Acadêmica,
+
+Meu nome é [Seu nome] e sou um aluno da instituição. Estou interessado em saber mais sobre os eventos acadêmicos oferecidos pela instituição, inclusive como posso participar deles.
+
+Agradeço pela informação. Espero uma resposta em breve.
+
+Atenciosamente,
+[Seu nome]

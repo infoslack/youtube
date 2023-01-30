@@ -1,0 +1,23 @@
+DE: Aluno
+
+PARA: Coordenador de Infraestrutura
+
+ASSUNTO: Solicitação de Informações sobre a Infraestrutura da Faculdade
+
+INTENÇÃO: Informar sobre as condições das instalações da Faculdade
+
+OBJETIVO: Solicitar dados detalhados sobre equipamentos, manutenções recentes, melhorias pendentes e outras informações sobre a Infraestrutura da Faculdade
+
+TOM: Respeitoso e profissional
+
+EMAIL:
+
+Prezado(a), Coordenador de Infraestrutura,
+
+Sou um aluno desta instituição e gostaria de me informar sobre as condições da infraestrutura da faculdade.
+Gostaria de ter a oportunidade de adquirir mais conhecimento sobre a infraestrutura, inclusive equipamentos, manutenções recentes, melhorias pendentes e todas as outras informações relevantes.
+
+Agradeço desde já pela sua atenção,
+
+Atenciosamente,
+[NOME DO ALUNO]

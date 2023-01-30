@@ -1,0 +1,6 @@
+DE:  Pesquisador enviando e-mail 
+PARA:  Escola de Finanças
+ASSUNTO:  Solicitação de informações sobre financiamento e bolsas 
+INTENÇÕES:  Obter informações sobre financiamento e bolsas disponíveis para estudantes 
+OBJETIVO:  Obter informações detalhadas a fim de se saber quais opções estão disponíveis para financiar estudos 
+TOM:  Profissional e cortês

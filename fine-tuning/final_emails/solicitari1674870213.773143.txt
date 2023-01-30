@@ -1,0 +1,22 @@
+DE: Nome/Organização
+PARA: Responsável/Nome da Universidade
+ASSUNTO: Solicitação de Informações acerca dos Cursos oferecidos
+INTENÇÕES: Obter detalhes sobre cursos e programas
+OBJETIVO: Obter informações para a tomada de decisão para matrícula 
+TOM: Profissional/Cordial
+
+EMAIL:
+
+Para: responsável@universidade.com
+Assunto: Solicitação de informações acerca dos cursos oferecidos 
+
+Prezado(a) Responsável,
+
+Meu nome é Nome e sou da Organização. Gostaria de solicitar algumas informações acerca dos cursos e programas oferecidos pela Universidade. 
+
+Gostaria de obter mais detalhes a respeito dos programas, como: tamanho do programa, duração e custo. Estou buscando estas informações com o objetivo de tomar uma decisão a respeito de minha matrícula.
+
+Agradeço antecipadamente a atenção e seu tempo, e estou a disposição caso necessite de maiores informações. 
+
+Atenciosamente,
+Nome

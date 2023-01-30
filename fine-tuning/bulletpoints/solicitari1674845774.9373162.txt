@@ -1,0 +1,6 @@
+- DE: Nome do Solicitante
+- PARA: Destinatário do Email
+- ASSUNTO: Informativo de Programas de Bolsas de Estudo
+- INTENÇÃO: Obter informações sobre programas de bolsas de estudo
+- OBJETIVOS: Compreender as diretrizes dos programas, requisitos para inscrição e a documentação necessária
+- TOM: Cordial e Agradecido

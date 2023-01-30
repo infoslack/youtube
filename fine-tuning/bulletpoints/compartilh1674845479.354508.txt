@@ -1,0 +1,6 @@
+ASSUNTO: Novas Notícias sobre produtos
+DE: [Seu Nome]
+PARA: [Destinatário]
+INTENÇÃO: Compartilhar informações sobre novos produtos
+OBJETIVO: Apresentar características e benefícios dos novos produtos
+TOM: Encorajador e persuasivo

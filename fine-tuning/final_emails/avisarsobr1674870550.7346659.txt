@@ -1,0 +1,30 @@
+- DE: Equipe da loja virtual / Responsáveis pelo site
+- PARA: Clientes
+- ASSUNTO: Alerta sobre mudanças no site ou na loja virtual
+- INTENÇÕES: Informar sobre as modificações, detalhando como elas afetarão os clientes
+- OBJETIVO: Explicar as alterações para ajudar os clientes a encontrarem os produtos desejados e garantir uma experiência positiva na loja virtual
+- TOM: Apresentar a mudança de forma clara e objetiva, destacando as vantagens da nova loja virtual para os clientes.
+
+EMAIL:
+
+Prezados Clientes,
+
+Esperamos que vocês estejam seguros e saudáveis.
+
+Estamos animados para compartilhar com vocês que estamos realizando
+mudanças em nossa loja virtual. Nós fizemos essas alterações com o
+objetivo de oferecer uma experiência ainda melhor para nossos
+clientes.
+
+As principais alterações são:
+  - Novo layout da interface de usuário para aumentar a facilidade na navegação no site
+  - Novas categorias de produtos para ajudar vocês a encontrarem os produtos desejados
+  - Mais detalhes dos produtos com imagens e descrições para fornecermais informações
+
+Estamos certos de que tais mudanças serão bem vindas, e esperamos que elas proporcionem aos nossos clientes uma experiência de compra ainda melhor.
+
+Se tiverem quaisquer dúvidas, por favor entrem em contato conosco. Estamos disponíveis para ajudar com qualquer coisa que possam precisar.
+
+Atenciosamente,
+
+Equipe da Loja Virtual

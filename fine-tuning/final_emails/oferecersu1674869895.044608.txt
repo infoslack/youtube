@@ -1,0 +1,29 @@
+DE: Suporte de Atendimento
+
+PARA: Clientes com dúvidas
+
+ASSUNTO: Oferecendo suporte para dúvidas
+
+INTENÇÃO: Facilitar a obtenção de informações
+
+OBJETIVO: Orientar os clientes e responder às perguntas
+
+TOM: Compreensivo e amigável
+
+EMAIL:
+
+Prezado(a),
+
+Obrigado(a) por nos contactar. Estamos felizes em lhe oferecer o nosso suporte para solucionar suas dúvidas.
+
+A nossa equipe de suporte pretende ajudá-lo(a) a encontrar as informações necessárias para responder às suas perguntas. Nos esforçamos para lhe oferecer um serviço amigável e confiável.
+
+Por favor, compartilhe detalhes sobre seu problema no e-mail, assim nossa equipe pode lhe fornecer as informações certas para ajudá-lo(a) a obter os melhores resultados.
+
+Se precisar de qualquer outra ajuda, por favor, não hesite em entrar em contato conosco. Estamos aqui para lhe orientar.
+
+Agradecemos antecipadamente a sua compreensão e apoio.
+
+Atenciosamente,
+
+Equipe de Suporte

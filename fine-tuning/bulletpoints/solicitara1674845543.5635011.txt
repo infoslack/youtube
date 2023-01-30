@@ -1,0 +1,6 @@
+- DE: Solicitante 
+- PARA: Supervisor financeiro
+- ASSUNTO: Solicitação de aprovação para pagamentos
+- INTENÇÕES: Solicitar aprovação de pagamentos
+- OBJETIVOS: Facilitar o processamento de pagamentos 
+- TOM: Profissional, formal e respeitoso

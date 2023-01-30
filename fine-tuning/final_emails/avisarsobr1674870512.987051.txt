@@ -1,0 +1,31 @@
+DE: Nome da empresa 
+
+PARA: Funcionários de alto escalão 
+
+ASSUNTO: Atrasos no cumprimento de projetos 
+
+INTENÇÃO: Notificar sobre os atrasos nos projetos 
+
+OBJETIVOS: Explicar as causas dos atrasos, propor soluções e estimular a ação 
+
+TOM: Profissional, mas compreensivo
+
+EMAIL:
+
+Prezados funcionários de alto escalão,
+
+É com pesar que compartilhamos com vocês que, devido a diversos fatores, tivemos um crescimento significativo nos atrasos em diversos projetos na empresa nos últimos meses.
+
+Sabemos que isso vem causando prejuízos consideráveis ao nosso desenvolvimento. Vários são os fatores que contribuíram para esta situação, mas principalmente aqueles ligados ao aumento da carga de trabalho, atrasos na entrega de materiais, organização inadequada do fluxo de trabalho e mudanças nas prioridades.
+
+No entanto, isso não significa que estejamos resignados a aceitar tal situação. Gostaríamos de comunicar as várias ações que já estamos tomando para remediar o problema. Estamos realocando trabalhadores para tarefas mais importantes e criando planos mais concisos para a conclusão dos projetos. Estamos também fornecendo treinamento aos funcionários e procurando parcerias externas para suprir quaisquer deficiências na entrega de equipamentos e matérias-primas.
+
+Entendemos que a mudança não será rápida, mas estamos tomando medidas para reduzir a carga de trabalho excessiva e implementar processos eficazes que garantam o cumprimento a tempo dos projetos.
+
+Confiamos em que todos continuarão trabalhando com o mesmo empenho e dedicação para resolver esta questão. Caso haja alguma dúvida ou sugestão, não hesite em entrar em contato. Estaremos prontos para ajudá-los a encontrar uma solução.
+
+Reconhecemos os esforços que todos têm feito até agora para superar esta crise e agradecemos sua contribuição para que possamos retomar os nossos objetivos.
+
+Agradecidos,
+
+Nome da Empresa

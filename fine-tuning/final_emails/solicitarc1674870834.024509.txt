@@ -1,0 +1,19 @@
+- Para: Funcionário de Compras da Empresa
+- Assunto: Solicitação de Produtos 
+- Intenção: Solicitar compras de produtos
+- Objetivo: Garantir a disponibilidade de produtos na empresa
+- Tom: Profissional, direto e claro
+
+EMAIL:
+
+Assunto: Solicitação de Produtos
+
+Prezado(a),
+
+Gostaria de solicitar a compra de produtos para garantir a disponibilidade de itens na nossa empresa.
+
+Aproveitaria para pedir a gentileza de nos informar qual é o procedimento de compra e qual seria o prazo estimado para a entrega dos produtos.
+
+Obrigado pela atenção,
+
+[Seu Nome]

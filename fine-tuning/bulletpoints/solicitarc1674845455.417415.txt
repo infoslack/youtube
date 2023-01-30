@@ -1,0 +1,5 @@
+- Para: Funcionário de Compras da Empresa
+- Assunto: Solicitação de Produtos 
+- Intenção: Solicitar compras de produtos
+- Objetivo: Garantir a disponibilidade de produtos na empresa
+- Tom: Profissional, direto e claro

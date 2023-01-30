@@ -1,0 +1,6 @@
+DE: 
+PARA: 
+ASSUNTO: Compartilhando informações sobre parcelamento de pagamentos
+INTENÇÃO: Divulgar informações sobre a possibilidade de parcelamento de pagamentos
+OBJETIVO: Apresentar recursos disponíveis para parcelamento de pagamentos
+TOM: Apresentação objetiva e clara de orientações para o parcelamento de pagamentos

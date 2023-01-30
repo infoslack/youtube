@@ -1,0 +1,11 @@
+DE: Suporte de Atendimento
+
+PARA: Clientes com dúvidas
+
+ASSUNTO: Oferecendo suporte para dúvidas
+
+INTENÇÃO: Facilitar a obtenção de informações
+
+OBJETIVO: Orientar os clientes e responder às perguntas
+
+TOM: Compreensivo e amigável

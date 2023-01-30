@@ -1,0 +1,6 @@
+DE: 
+Para: 
+Assunto: Solicitação de ajuda para tarefas domésticas
+Intenção: Encontrar uma pessoa para ajudar com tarefas domésticas
+Objetivo: Economizar tempo e energia na realização de tarefas domésticas 
+Tom: Solicitação educada e amigável da ajuda desejada

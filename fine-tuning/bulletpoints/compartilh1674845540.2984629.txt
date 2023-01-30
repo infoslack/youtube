@@ -1,0 +1,11 @@
+DE: Representante de Relações com Clientes
+
+PARA: Todos os membros do time de cobranças
+
+ASSUNTO:Novas notícias sobre cobranças
+
+INTENÇÕES: Compartilhar as últimas notícias e políticas sobre cobranças
+
+OBJETIVOS: Promover a eficácia e a eficiência na cobrança de dívidas de clientes
+
+TOM: Profissional, mas amigável

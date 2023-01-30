@@ -1,0 +1,23 @@
+DE: Responsável pelas atualizações do projeto
+PARA: Equipe de desenvolvimento envolvida no projeto
+ASSUNTO: Atualizações sobre o projeto
+INTENÇÃO: Compartilhar informações relevantes sobre o andamento do projeto
+OBJETIVOS: Manter a equipe informada sobre a evolução do projeto
+TOM: Profissional e conciso
+
+EMAIL:
+
+Prezados,
+
+Informamos que houve atualizações relevantes sobre o andamento do projeto.
+
+Seguem abaixo alguns detalhes importantes que gostaríamos de compartilhar com a equipe de desenvolvimento:
+
+[DETALHES RELEVANTES SOBRE O PROJETO]
+
+Pedimos a gentileza de manter a equipe informada sobre o progresso do projeto.
+
+Agradecemos o empenho de todos.
+
+Atenciosamente,
+[RESPONSÁVEL PELAS ATUALIZAÇÕES DO PROJETO]

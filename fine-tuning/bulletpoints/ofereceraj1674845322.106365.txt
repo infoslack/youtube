@@ -1,0 +1,6 @@
+- Para: Pessoa solicitante da ajuda
+- De: Pessoa oferecendo ajuda
+- Assunto: Oferecendo ajuda para conclusão de tarefas
+- Intenções: Ajudar com algumas tarefas com o objetivo de facilitar a conclusão de forma mais rápida
+- Objetivos: Discutir quais tarefas são necessárias e como ou quais métodos podem ser usados para ajudar
+- Tom: Solícito, prestativo e agradável

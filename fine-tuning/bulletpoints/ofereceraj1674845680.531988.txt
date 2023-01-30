@@ -1,0 +1,6 @@
+DE: Organizador do Evento
+PARA: Prospecto que Possa Oferecer Ajuda
+ASSUNTO: Oportunidade de Oferta de Ajuda para Eventos Especiais
+INTENÇÃO: Solicitar a Participação e Ajuda para Eventos Especiais
+OBJETIVO: Oferecer Suporte para Eventos Especiais com a Oferta de Ajuda
+TOM: Cordial Mas Profissional
