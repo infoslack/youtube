@@ -6,7 +6,7 @@
 #include <Wire.h>
 
 const int LED_PIN = 2;
-const char* WIFI_SSID = "your_netword_here";
+const char* WIFI_SSID = "your_network_here";
 const char* WIFI_PASS = "yous_password_here";
 const char* SERVER_URL = "http://server_ip_here:4242";
 
